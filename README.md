@@ -4,7 +4,7 @@ Une Progressive Web App pour scanner des QR codes et prendre des photos.
 
 ## 🚀 Demo Live
 
-🔗 **[Tester l'application](https://votre-username.github.io/pwa-camera-qr-scanner/)**
+🔗 **[Tester l'application](https://aymenMaz001.github.io/pwa-camera-qr-scanner/)**
 
 ## ✨ Fonctionnalités
 
